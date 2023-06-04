@@ -5,7 +5,7 @@
   <h3 align="center"></h3>
 
   <p align="center">
-    The 1# webhook destroyer for discord.  
+    The #1 webhook destroyer for discord.  
     <br />
     <a href="https://discord.gg/R8Mc8aKqUb">Join the discord</a>
   </p>
